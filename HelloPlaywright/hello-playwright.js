@@ -10,7 +10,7 @@ const device = devices['iPhone 12'];
     recordVideo:{ 
         dir:"video"
     },
-   ...device
+  //  ...device
   });
 
   context.tracing.start({ screenshots: true, snapshots: true, sources: true});
