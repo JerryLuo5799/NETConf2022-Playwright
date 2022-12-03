@@ -108,3 +108,6 @@ HelloPlaywright/video/37a4ea992017221b42dbb5b4bc1d030d.webm
 HelloPlaywright/video/c68c53919092dd276d2c4d3a98e47e45.webm
 HelloPlaywright/video/c144b40ad6fbaa32ada918bf9cd9464b.webm
 HelloPlaywright/trace.zip
+/NUnitTestByNet/bin/Debug/net5.0
+/NUnitTestByNet/obj
+/NUnitTestByNet/.vs/NUnitTestByNet/v16
